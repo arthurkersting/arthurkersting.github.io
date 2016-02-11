@@ -1,0 +1,11 @@
+HTTrack3.48-21 launched on Thu, 11 Feb 2016 15:29:07 at http://arthurkersting.prosite.com/
+(winhttrack http://arthurkersting.prosite.com/ -O "/Users/ericprieto/Desktop/arthur /arthur" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.48-21 mirror complete in 9 seconds : 18 links scanned, 17 files written (1029209 bytes overall) [202358 bytes received at 22484 bytes/sec], 1029209 bytes transferred using HTTP compression in 17 files, ratio 19%, 1.6 requests per connection
+(No errors, 0 warnings, 0 messages)
